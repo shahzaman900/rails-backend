@@ -29,6 +29,7 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
@@ -46,7 +47,7 @@
 </details>
 
 <h2>
- Client side Repository link: https://github.com/shahzaman900/hello-rails-front-end
+ Client side Repository link: https://github.com/shahzaman900/rails-frontend
 </h2>
 
 <!-- Features -->
